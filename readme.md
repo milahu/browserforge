@@ -474,6 +474,10 @@ alternative to
 - https://github.com/jvilk/BrowserFS - 3K stars
 - https://github.com/filerjs/filer - 500 stars
 
+##### github-activity-writer
+
+https://github.com/orta/github-activity-writer
+
 #### js-git
 
 https://github.com/creationix/js-git - 4K stars
@@ -592,6 +596,72 @@ https://github.com/cube-js/cube.js
 #### tanstack/query
 
 </details>
+
+### cms
+
+https://github.com/topics/content-management-system?l=typescript
+
+https://github.com/topics/cms?l=typescript
+
+#### payload
+
+https://github.com/payloadcms/payload - 9K stars
+
+#### tinacms
+
+https://github.com/tinacms/tinacms - 8K stars
+
+https://tina.io/
+
+A headless CMS for Markdown
+
+using isomorphic-git
+
+#### netlify-cms
+
+https://github.com/netlify/netlify-cms - 16K stars
+
+> A Git-based CMS for Static Site Generators
+>
+> Give users a simple way to edit and add content to any site built with a static site generator.
+
+https://github.com/vencax/netlify-cms-github-oauth-provider
+
+#### alinea
+
+https://github.com/alineacms/alinea - 600 stars
+
+Content management for the modern web
+
+Content is stored in flat files and committed to your repository
+
+#### remix-cms
+
+https://github.com/ShafSpecs/remix-cms
+
++ github api
+
+### writing tools
+
+#### obsidian.md
+
+https://obsidian.md/
+
+https://github.com/obsidianmd/obsidian-releases - 4K stars
+
+Obsidian is not open source software and this repo DOES NOT contain the source code of Obsidian
+
+markdown editor
+
+closed source
+
+alternatives: codimd
+
+##### obsidian-git
+
+https://github.com/denolehov/obsidian-git - 3K stars
+
+git backend for obsidian
 
 ### book printing
 
