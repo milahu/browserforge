@@ -1,6 +1,6 @@
 # browserforge
 
-html files are inplace-editable documents like [dokieli](https://dokie.li/)
+html files are inplace-editable documents like [dokieli](https://github.com/linkeddata/dokieli)
 which can be shared over peer-to-peer networking (wifi, bluetooth, sneakernet)
 
 everything runs in the browser
