@@ -9,8 +9,6 @@ everything runs in the browser
 
 concept
 
-most promising tool: CodeSandbox
-
 ## specs
 
 ### inplace-editing
@@ -240,6 +238,14 @@ CodeSandbox could be a practical option if you’re working remotely or using a 
 
 </blockquote>
 
+##### bundler
+
+https://github.com/codesandbox/sandpack - 3K stars
+
+A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
+
+https://sandpack.codesandbox.io/docs/advanced-usage/client
+
 ##### github backend
 
 https://github.com/codesandbox/codesandbox-importers/blob/master/packages/git-extractor/src/routes/github/pull/download.ts
@@ -271,6 +277,16 @@ https://github.com/eclipse-theia/theia - 18K stars
 Cloud & Desktop IDE
 
 compatible with vscode extensions
+
+#### web-maker
+
+https://github.com/chinchang/web-maker - 2K stars
+
+> A blazing fast & offline frontend playground
+>
+> Web-Maker is an offline playground for your web experiments. Something like CodePen or JSFiddle, but much more faster and works offline because it runs completely on your system.
+
+export to single html file
 
 <details>
 
