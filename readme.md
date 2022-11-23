@@ -240,6 +240,14 @@ https://tiptap.dev/hocuspocus/
 https://github.com/pubpub/pubpub-editor - based on react, prosemirror - 100 stars
 https://github.com/chanzuckerberg/czi-prosemirror - based on react, prosemirror - 300 stars
 
+#### grapesjs
+
+https://github.com/artf/grapesjs - 17K stars
+
+Web Builder Framework. Build templates without coding
+
+drag-and-drop, no-code, gui, visual-programming
+
 #### stackedit.io
 
 https://stackedit.io/
@@ -252,6 +260,24 @@ browser app
 
 backends: github, gitlab, google drive, dropbox
 
+#### trix
+
+https://github.com/basecamp/trix - 17K stars
+
+<blockquote>
+
+Different By Design
+
+Most WYSIWYG editors are wrappers around HTML’s contenteditable and execCommand APIs, designed by Microsoft to support live editing of web pages in Internet Explorer 5.5, and eventually reverse-engineered and copied by other browsers.
+
+Because these APIs were never fully specified or documented, and because WYSIWYG HTML editors are enormous in scope, each browser’s implementation has its own set of bugs and quirks, and JavaScript developers are left to resolve the inconsistencies.
+
+Trix sidesteps these inconsistencies by treating contenteditable as an I/O device: when input makes its way to the editor, Trix converts that input into an editing operation on its internal document model, then re-renders that document back into the editor. This gives Trix complete control over what happens after every keystroke, and avoids the need to use execCommand at all.
+
+</blockquote>
+
+todo: what would prosemirror do?
+
 <details>
 
 #### dillinger.io
@@ -263,6 +289,18 @@ https://github.com/joemccann/dillinger - 8K stars
 markdown editor
 
 backends: github, google drive, dropbox, one drive, medium
+
+#### sofish/pen
+
+https://github.com/sofish/pen - 5K stars
+
+html editor, inplace editing, live editing
+
+#### woofmark
+
+https://github.com/bevacqua/woofmark - 2K stars
+
+markdown editor
 
 #### litewrite
 
