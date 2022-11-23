@@ -68,9 +68,27 @@ markdown can be derived from html
 
 browser first, native second https://jasonette.com/
 
-ui framework should be "SSR by default" like https://github.com/BuilderIO/qwik
+#### qwik framework
+
+https://github.com/BuilderIO/qwik - 14K stars
+
+The HTML-first framework. Instant apps of any size with ~ 1kb JS
+
+https://qwik.builder.io/playground/
+
+ui framework should be "SSR by default" like qwik
 to produce static html pages, which run without javascript.
 optional javascript dependencies are lazy-loaded (on demand) to reduce memory footprint of the app
+
+##### builder.io
+
+https://github.com/BuilderIO/builder - 4K stars
+
+https://builder.io/demo
+
+Drag and drop Visual CMS for React, Vue, Angular, and more
+
+Integrate with any site or app. Drag and drop with the components already in your codebase.
 
 #### html as data exchange format
 
