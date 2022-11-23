@@ -49,6 +49,10 @@ markdown can be derived from html
 
 browser first, native second https://jasonette.com/
 
+ui framework should be "SSR by default" like https://github.com/BuilderIO/qwik
+to produce static html pages, which run without javascript.
+optional javascript dependencies are lazy-loaded (on demand) to reduce memory footprint of the app
+
 ## based on
 
 this is a fusion of multiple tools
