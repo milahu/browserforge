@@ -461,6 +461,19 @@ overkill?
 we just need to fetch like 10 versions of \*one file\*
 &rarr; github rest api should work
 
+##### @isomorphic-git/lightning-fs
+
+https://www.npmjs.com/package/@isomorphic-git/lightning-fs
+
+https://github.com/isomorphic-git/lightning-fs - 400 stars
+
+filesystem based on IndexedDB
+
+alternative to
+
+- https://github.com/jvilk/BrowserFS - 3K stars
+- https://github.com/filerjs/filer - 500 stars
+
 #### js-git
 
 https://github.com/creationix/js-git - 4K stars
@@ -469,14 +482,31 @@ A JavaScript implementation of Git
 
 > I've been asking Github to enable CORS headers to their HTTPS git servers, but they've refused to do it. This means that a browser can never clone from github because the browser will disallow XHR requests to the domain.
 
+##### js-github
+
 https://github.com/creationix/js-github - 160 stars
+
 A js-git mixin that uses github as the data storage backend.
+
+##### git-indexeddb
+
+https://github.com/aaronpowell/git-indexeddb - 10 stars
+
+js-git db on top of IndexedDB
 
 example with indexeddb caching
 
+##### git-browser
+
+https://github.com/creationix/git-browser
+
+based on js-git, git-indexeddb, ...
+
 #### git-documentdb
 
-https://github.com/sosuisen/git-documentdb
+https://github.com/sosuisen/git-documentdb - 40 stars
+
+Offline-first Database that Syncs with Git
 
 #### workbox
 
