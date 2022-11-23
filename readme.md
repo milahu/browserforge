@@ -48,9 +48,13 @@ the problem with CRDT is, it needs lots of memory to store ALL the changes (char
 
 also handle schema migrations
 
+##### self-modifying code
+
 code and data - both can be modified with this system,
 so it can be called "self-modifying code" (in a good sense, a "good virus")
 more precise a "self-modifying browser-app"
+
+https://www.i-programmer.info/programming/javascript/989-javascript-jems-self-modifying-code.html
 
 #### pazguille/offline-first
 
