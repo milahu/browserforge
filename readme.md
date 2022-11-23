@@ -171,6 +171,20 @@ git backend is missing
 
 aka: rich text editor, wysiwyg editor
 
+ideally, the user can install different editors
+
+#### pell
+
+https://github.com/jaredreich/pell - 12K stars
+
+html editor with only 4 KByte
+
+to compare:
+
+- https://bundlephobia.com/package/prosemirror-view@1.29.1 has 140 KByte
+- https://bundlephobia.com/package/draft-js@0.11.7 has 220 KByte
+- https://bundlephobia.com/package/monaco-editor@0.34.1 has 80 KByte
+
 #### prosemirror
 
 https://github.com/ProseMirror/prosemirror-view - 1K stars (underrated)
