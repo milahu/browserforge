@@ -264,6 +264,20 @@ backends: github, gitlab, google drive, dropbox
 
 https://github.com/basecamp/trix - 17K stars
 
+#### inplace editors
+
+https://github.com/xreader/inplaceeditor - 40 stars - Edit static HTML pages with simple InPlaceEditor
+
+https://github.com/ZenCocoon/inplacericheditor - 20 stars - AJAX In Place Rich Editor: In place AJAX-powered WYSIWYG editor
+
+https://github.com/doomhz/jQuery-Inplace-Edit - 10 stars - A jQuery plugin for editing text in place.
+
+https://github.com/wbotelhos/inplace - 10 stars - An inplace editor
+
+https://github.com/ovesco/flyter - 5 stars - A library for inline editing. inspired by x-editable (create editable elements), but doesn't rely on jquery, offers tons of customization options and can be easily extended to fit your needs.
+
+https://github.com/vitalets/x-editable - 7K stars - In-place editing. create editable elements. includes both popup and inline modes. [demo](https://vitalets.github.io/x-editable/demo-bs3.html)
+
 <blockquote>
 
 Different By Design
