@@ -76,6 +76,30 @@ optional javascript dependencies are lazy-loaded (on demand) to reduce memory fo
 
 this is a fusion of multiple tools
 
+### TiddlyWiki
+
+https://github.com/Jermolene/TiddlyWiki5 - 7K stars
+
+A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+
+https://tiddlywiki.com/
+
+https://en.wikipedia.org/wiki/TiddlyWiki
+
+> TiddlyWiki is a personal wiki and a non-linear notebook for organising and sharing complex information. It is an open-source single page application wiki in the form of a **single HTML file** that includes CSS, JavaScript, embedded files such as images, and the text content. It is designed to be easy to customize and re-shape depending on application. It facilitates re-use of content by dividing it into small pieces called Tiddlers.
+>
+> TiddlyWiki is an unusual example of a practical quine. This idea of producing a copy of its own source code that lies at the heart of TiddlyWiki's ability to independently save changes to itself.
+
+storage: single HTML file
+
+### dokieli
+
+https://github.com/linkeddata/dokieli
+
+inplace-editable html pages
+
+git backend is missing
+
 ### html editor
 
 aka: rich text editor, wysiwyg editor
