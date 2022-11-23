@@ -96,6 +96,14 @@ Drag and drop Visual CMS for React, Vue, Angular, and more
 
 Integrate with any site or app. Drag and drop with the components already in your codebase.
 
+#### htmlgoddess
+
+https://github.com/jonascript/htmlgoddess
+
+A static site generator to code like its 1999
+
+no javascript, only html + css
+
 #### html as data exchange format
 
 html is useful as a data exchange format
@@ -182,6 +190,18 @@ https://en.wikipedia.org/wiki/TiddlyWiki
 > TiddlyWiki is an unusual example of a practical quine. This idea of producing a copy of its own source code that lies at the heart of TiddlyWiki's ability to independently save changes to itself.
 
 storage: single HTML file
+
+#### tiddly-gittly/TidGi-Desktop
+
+https://github.com/tiddly-gittly/TidGi-Desktop - 800 stars
+
+TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API
+
+##### git-sync-js
+
+https://github.com/tiddly-gittly/git-sync-js
+
+JS implementation for Git-Sync
 
 ### dokieli
 
@@ -477,6 +497,20 @@ alternative to
 ##### github-activity-writer
 
 https://github.com/orta/github-activity-writer
+
+##### gatsby-source-git
+
+https://github.com/stevetweeddale/gatsby-source-git - 70 stars
+
+git client for gatsby
+
+##### gridsome-source-git
+
+https://github.com/noxify/gridsome-source-git - 10 stars
+
+git client for gridsome
+
+https://github.com/gridsome/gridsome - 9K stars - The Jamstack framework for Vue.js
 
 #### js-git
 
