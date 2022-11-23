@@ -33,6 +33,24 @@ because ...
 
 ![There is no cloud, it’s just someone else’s computer](there-is-no-cloud.jpg)
 
+#### data flow
+
+on the first page load, the full git repo is fetched and stored in the browser (indexeddb or folder api)
+
+now the app can work offline: browser other pages, edit pages, branch/commit/rebase
+
+on future page loads, the app will ask "do you want to fetch updates?"
+
+updates are merged with local changes.
+use either the simple conflict-resolution of git,
+or a the complex conflict-resolution of CRDT (yjs, automerge, ...).
+the problem with CRDT is, it needs lots of memory to store ALL the changes (character-based diff)
+
+also handle schema migrations
+
+code and data - both can be modified with this system,
+so it can be called "self-modifying code" (in a good sense, a "good virus")
+
 #### pazguille/offline-first
 
 https://github.com/pazguille/offline-first
