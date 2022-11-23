@@ -458,3 +458,30 @@ https://github.com/cube-js/cube.js
 #### tanstack/query
 
 </details>
+
+### book printing
+
+render a book-layout for printing
+
+at the end of the day, digital is just a medium,
+and the actual target is always print
+
+todo: latex in javascript? (vanilla javascript, no wasm)
+
+a good layout engine can distribute content across pages
+to meet 2 constraints:
+
+1. pretty
+2. compact
+
+so, this tool should also be usable as a book-authoring software,
+where readers can modify and reprint a book ("editable book")
+
+#### bindery
+
+https://github.com/evnbr/bindery
+
+i tried other tools, but for now im using bindery
+
+its not perfect, sometimes the layout is too compact and ugly,
+so i must insert manual pagebreaks ... but it works
