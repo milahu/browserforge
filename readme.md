@@ -220,9 +220,55 @@ https://tiptap.dev/hocuspocus/
 https://github.com/pubpub/pubpub-editor - based on react, prosemirror - 100 stars
 https://github.com/chanzuckerberg/czi-prosemirror - based on react, prosemirror - 300 stars
 
+#### stackedit.io
+
+https://stackedit.io/
+
+https://github.com/benweet/stackedit - 20K stars
+
+markdown editor
+
+browser app
+
+backends: github, gitlab, google drive, dropbox
+
+<details>
+
+#### dillinger.io
+
+https://dillinger.io/
+
+https://github.com/joemccann/dillinger - 8K stars
+
+markdown editor
+
+backends: github, google drive, dropbox, one drive, medium
+
+#### litewrite
+
+https://litewrite.net/
+
+https://github.com/litewrite/litewrite - 400 stars
+
+html editor
+
+> Offline: Once loaded, it’s essentially a desktop app. Thanks to AppCache and localStorage, both app and data are fully cached offline and synced whenever online.
+
+> This is an [unhosted web app](http://unhosted.org/), meaning its code is fully client-side, without any server backend you need to trust! It also supports the open [remotestorage](http://remotestorage.io/) protocol so you can sync your data across devices & browsers.
+
+via http://unhosted.org/apps/
+
+#### hyperdraft
+
+https://hyperdraft.rosano.ca/
+
+html editor
+
 ### static web hosting
 
 github.com pages, gitlab.com pages, codeberg.org pages ...
+
+</details>
 
 ### git forges
 
