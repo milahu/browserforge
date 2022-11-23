@@ -9,6 +9,8 @@ everything runs in the browser
 
 concept
 
+most promising tool: CodeSandbox
+
 ## specs
 
 ### inplace-editing
@@ -238,7 +240,21 @@ CodeSandbox could be a practical option if you’re working remotely or using a 
 
 </blockquote>
 
-github backend: https://github.com/codesandbox/codesandbox-importers/blob/master/packages/git-extractor/src/routes/github/pull/download.ts
+##### github backend
+
+https://github.com/codesandbox/codesandbox-importers/blob/master/packages/git-extractor/src/routes/github/pull/download.ts
+
+##### Full Offline Support
+
+https://codesandbox.io/post/creating-a-parallel-offline-extensible-browser-based-bundler-for-codesandbox
+
+<blockquote>
+  
+Full Offline Support
+
+Everything works offline already, but for full offline support we need to allow you to save sandboxes offline. This allows you to work offline on your projects forever, and upload to CodeSandbox whenever you’d like. The only feature that requires an internet connection are npm dependencies, but we already cache all npm results. We’ll give you the option to precache combinations for when you’re planning a trip or flight.
+
+</blockquote>
 
 #### code-server
 
