@@ -50,6 +50,7 @@ also handle schema migrations
 
 code and data - both can be modified with this system,
 so it can be called "self-modifying code" (in a good sense, a "good virus")
+more precise a "self-modifying browser-app"
 
 #### pazguille/offline-first
 
