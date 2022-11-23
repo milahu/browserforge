@@ -266,9 +266,11 @@ CodeSandbox could be a practical option if you’re working remotely or using a 
 
 https://github.com/codesandbox/sandpack - 3K stars
 
-A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
+webpack for the browser
 
 https://sandpack.codesandbox.io/docs/advanced-usage/client
+
+alternative: https://github.com/divriots/browser-vite - 500 stars
 
 ##### github backend
 
