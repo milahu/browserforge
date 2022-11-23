@@ -506,6 +506,14 @@ https://github.com/creationix/git-browser
 
 based on js-git, git-indexeddb, ...
 
+#### git-master
+
+https://github.com/ineo6/git-master - 400 stars
+
+Git Master Extension for git file tree, support GitHub GitLab Gitee Gitea Gogs
+
+browser extension
+
 #### git-documentdb
 
 https://github.com/sosuisen/git-documentdb - 40 stars
@@ -655,6 +663,10 @@ https://github.com/ShafSpecs/remix-cms
 
 + github api
 
+#### github-pages-cms
+
+https://github.com/jansmolders86/github-pages-cms - 50 stars
+
 ### writing tools
 
 #### obsidian.md
@@ -703,3 +715,13 @@ i tried other tools, but for now im using bindery
 
 its not perfect, sometimes the layout is too compact and ugly,
 so i must insert manual pagebreaks ... but it works
+
+## too much
+
+could be useful, but too complex
+
+### daedalOS
+
+https://github.com/DustinBrett/daedalOS - 6K stars
+
+Desktop environment in the browser.
