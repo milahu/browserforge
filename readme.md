@@ -603,6 +603,20 @@ https://github.com/topics/content-management-system?l=typescript
 
 https://github.com/topics/cms?l=typescript
 
+#### bodiless-js
+
+https://www.bodiless-js.org/
+
+https://github.com/johnsonandjohnson/Bodiless-JS - 130 stars
+
+Framework for building editable websites on the JAMStack
+
+using isomorphic-git
+
+"edit this page" feature = (almost) inplace editing
+
+edit content and presentation (style, menus, ...)
+
 #### payload
 
 https://github.com/payloadcms/payload - 9K stars
