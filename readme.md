@@ -76,6 +76,8 @@ The HTML-first framework. Instant apps of any size with ~ 1kb JS
 
 https://qwik.builder.io/playground/
 
+qwik playground source: https://github.com/BuilderIO/qwik/tree/main/packages/docs/src/repl
+
 ui framework should be "SSR by default" like qwik
 to produce static html pages, which run without javascript.
 optional javascript dependencies are lazy-loaded (on demand) to reduce memory footprint of the app
