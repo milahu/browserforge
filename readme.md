@@ -29,7 +29,7 @@ https://github.com/topics/dapp
 
 because ...
 
-There is no cloud, it’s just someone else’s computer
+[There is no cloud, it’s just someone else’s computer](https://www.chriswatterston.com/article/success-of-my-there-is-no-cloud-sticker)
 
 ![There is no cloud, it’s just someone else’s computer](there-is-no-cloud.jpg)
 
@@ -46,6 +46,8 @@ no build steps, no SSR, no markdown
 "html is the mother language" -- rich harris, svelte
 
 markdown can be derived from html
+
+browser first, native second https://jasonette.com/
 
 ## based on
 
@@ -86,6 +88,8 @@ selfhosted, localfirst, nocloud, anyone can start a new instance
 
 aka: browser IDE, browser playground
 
+https://alternativeto.net/category/developer-tools/ide/?license=opensource
+
 https://www.sitepoint.com/code-playgrounds/
 
 #### CodeSandbox
@@ -108,21 +112,49 @@ CodeSandbox could be a practical option if you’re working remotely or using a 
 
 github backend: https://github.com/codesandbox/codesandbox-importers/blob/master/packages/git-extractor/src/routes/github/pull/download.ts
 
+#### code-server
+
+https://github.com/coder/code-server - 60K stars
+
+VS Code in the browser
+
+#### Eclipse Theia
+
+https://theia-ide.org/
+
+https://github.com/eclipse-theia/theia - 18K stars
+
+Cloud & Desktop IDE
+
+compatible with vscode extensions
+
 <details>
 
 #### Atheos
 
 https://github.com/Atheos/Atheos - 300 stars
 
+https://github.com/Codiad/Codiad - 3K stars
+
+PHP backend
+
 > A self-hosted browser-based cloud IDE, updated from Codiad IDE
 >
 > Atheos is an updated and currently maintained fork of Codiad, a web-based IDE framework with a small footprint and minimal requirements.
 
-#### tryitonline
+#### gitpod
 
-https://github.com/TryItOnline/tryitonline
+https://github.com/gitpod-io/gitpod - 10K stars
 
-online interpreters for an evergrowing list of practical and recreational programming languages
+> Gitpod automates the provisioning of ready-to-code development environments.
+>
+> Gitpod is an open-source Kubernetes application for ready-to-code cloud development environments that spins up fresh, automated dev environments for each task, in the cloud, in seconds. It enables you to describe your dev environment as code and start instant, remote and cloud development environments directly from your browser or your Desktop IDE.
+
+#### codeanywhere
+
+https://codeanywhere.com/
+
+closed source
 
 #### koding
 
@@ -135,6 +167,30 @@ archived in year 2019
 https://github.com/writeas/htmlhouse
 
 html server + editor
+
+</details>
+
+### cloud compiler
+
+<details>
+
+#### ideone
+
+https://ideone.com/
+
+online compilers
+
+#### tryitonline
+
+https://github.com/TryItOnline/tryitonline
+
+online interpreters for an evergrowing list of practical and recreational programming languages
+
+#### godbolt
+
+https://godbolt.org/
+
+online compilers
 
 </details>
 
