@@ -33,9 +33,50 @@ because ...
 
 ![There is no cloud, it’s just someone else’s computer](there-is-no-cloud.jpg)
 
-#### data flow
+#### workflow
 
-on the first page load, the full git repo is fetched and stored in the browser (indexeddb or folder api)
+like on github: fork, branch, edit, commit, merge
+
+the user's "first impression" is the rendered html file,
+because documents are "read often" or "mostly read"
+
+when the user wants to make a change,
+the "editing experience" should be instant,
+so the user does not forget his idea.
+
+to edit the page, click the "edit this page" button, and edit.
+the details of the edit process (fork, branch, edit, commit, merge) come later.
+but the "first edit" is persistent across page reloads, so dont worry about data loss.
+
+the user can fork before editing, but its not a hard requirement,
+to make editing as "instant" and "inplace" as possible.
+
+when the first edit is done, its time to fork, branch, commit.
+
+fork: download the full repo to the browser (filesystem api or indexeddb).
+this must be independent of the original URL, so we must install as browser app.
+
+> window.showOpenFilePicker()
+
+<details>
+<summary>
+filesystem api
+</summary>
+
+https://web.dev/file-system-access/
+
+The entry point to the File System Access API is window.showOpenFilePicker().
+When called, it shows a file picker dialog box, and prompts the user to select a file.
+
+We have developed a library called [browser-fs-access](https://github.com/GoogleChromeLabs/browser-fs-access)
+that uses the File System Access API wherever possible
+and that falls back to these next best options in all other cases.
+
+Opening a directory and enumerating its contents
+
+To enumerate all files in a directory, call showDirectoryPicker(). The user selects a directory in a picker, after which a FileSystemDirectoryHandle is returned, which lets you enumerate and access the directory's files. By default, you will have read access to the files in the directory, but **if you need write access, you can pass { mode: 'readwrite' } to the method**.
+
+</details>
 
 now the app can work offline: browser other pages, edit pages, branch/commit/rebase
 
