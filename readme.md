@@ -9,6 +9,13 @@ everything runs in the browser
 
 concept
 
+### implementations
+
+* https://github.com/isomorphic-git/isomorphic-git#who-is-using-isomorphic-git
+  * https://github.com/mizchi/next-editor - https://next-editor.app/ - 300 stars - last update 2020
+  * https://github.com/wmhilton/nde - https://wmhilton.com/nde/ - https://nde.now.sh/ - broken - 80 stars - last update 2018
+  * https://github.com/wmhilton/git-apps - https://git-app-manager.now.sh/ - broken - 0 stars - last update 2017
+
 ## specs
 
 ### inplace-editing
