@@ -223,6 +223,56 @@ cat .git/objects/pack/*.pack | base64 >>pack.html
 
 this is a fusion of multiple tools
 
+### web desktop
+
+aka: web based operating system
+
+https://github.com/syxanash/awesome-web-desktops
+
+#### svelte
+
+https://github.com/puruvj/macos-web - 2K stars - macOS Web written in Svelte
+
+#### react
+
+https://github.com/blueedgetechno/win11React - 7K stars - Windows 11 in React
+
+https://github.com/DustinBrett/daedalOS - 6K stars - Desktop environment in the browser. 
+
+https://github.com/Renovamen/playground-macos - 3K stars - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
+
+https://github.com/vivek9patel/vivek9patel.github.io - 3K stars - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
+
+https://github.com/piyushsuthar/windows-11-web - 500 stars
+
+#### vue
+
+https://github.com/GoodManWEN/GoodManWEN.github.io - 1K stars - A website simulating linux system's GUI, using theme of Deepin distro.
+
+https://github.com/DonChiaQE/win95 - 100 stars - Windows 95 Portfolio built with Vue.js
+
+#### other
+
+https://github.com/os-js/OS.js - 6K stars - OS.js - JavaScript Web Desktop Platform. based on Hyperapp, an "ultra-lightweight **Virtual DOM**, highly-optimized diff algorithm, and state management library" (Virtual DOM is a bug ...)
+
+https://github.com/dahliaOS/pangolin_desktop - 2K stars - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
+
+https://github.com/KilledByAPixel/OS13k - 500 stars - A Tiny OS and Mini Game Engine - 13 KByte
+
+https://github.com/Manthee1/linuxWeb - 100 stars - Linux... but simulated on your web browser.
+
+### web framework
+
+https://krausest.github.io/js-framework-benchmark/
+
+### web package
+
+https://github.com/WICG/webpackage
+
+specifications aimed at packaging websites
+
+allow people to bundle together the resources that make up a website, so they can be shared offline, either with or without a proof that they came from the original website
+
 ### TiddlyWiki
 
 https://github.com/Jermolene/TiddlyWiki5 - 7K stars
@@ -307,6 +357,11 @@ markdown editor
 browser app
 
 backends: github, gitlab, google drive, dropbox
+
+alternatives
+
+- https://github.com/nhn/tui.editor - 15K stars
+- https://github.com/joemccann/dillinger - 8K stars
 
 #### trix
 
@@ -454,11 +509,23 @@ Everything works offline already, but for full offline support we need to allow 
 
 </blockquote>
 
+##### alternatives
+
+https://github.com/styfle/awesome-online-ide
+
+- https://github.com/jsbin/jsbin - 4K stars
+- https://github.com/porsager/flems - 400 stars
+- https://github.com/popcodeorg/popcode - 200 stars
+
 #### code-server
 
 https://github.com/coder/code-server - 60K stars
 
 VS Code in the browser
+
+https://github.com/gitpod-io/openvscode-server
+
+https://github.com/conwnet/github1s - 20K stars - One second to read GitHub code with VS Code.
 
 #### Eclipse Theia
 
@@ -469,6 +536,14 @@ https://github.com/eclipse-theia/theia - 18K stars
 Cloud & Desktop IDE
 
 compatible with vscode extensions
+
+#### Eclipse Che
+
+https://www.eclipse.org/che/
+
+middleware for a remote IDE, browser based, similar to vscode server
+
+with support for multiple frontends: vscode, jetbrains, Eclipse Theia
 
 #### web-maker
 
