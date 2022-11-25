@@ -514,6 +514,7 @@ Everything works offline already, but for full offline support we need to allow 
 https://github.com/styfle/awesome-online-ide
 
 - https://github.com/jsbin/jsbin - 4K stars
+- https://github.com/chinchang/web-maker - 2K stars
 - https://github.com/porsager/flems - 400 stars
 - https://github.com/popcodeorg/popcode - 200 stars
 
@@ -686,6 +687,12 @@ https://github.com/noxify/gridsome-source-git - 10 stars
 git client for gridsome
 
 https://github.com/gridsome/gridsome - 9K stars - The Jamstack framework for Vue.js
+
+##### WeGit
+
+https://github.com/welldan97/WeGit - 20 stars
+
+Distributed P2P Git Hosting Provider Network
 
 #### js-git
 
