@@ -273,6 +273,20 @@ specifications aimed at packaging websites
 
 allow people to bundle together the resources that make up a website, so they can be shared offline, either with or without a proof that they came from the original website
 
+### component manager
+
+https://github.com/teambit/bit
+
+toolchain for component-driven software. Forget monolithic apps and distribute development to components
+
+motivation: package management https://bit.dev/blog/painless-monorepo-dependency-management-with-bit-l4f9fzyw/
+
+### interface designer
+
+https://www.builder.io/
+
+Drag and drop on your tech stack
+
 ### TiddlyWiki
 
 https://github.com/Jermolene/TiddlyWiki5 - 7K stars
