@@ -386,6 +386,10 @@ alternatives
 
 https://github.com/basecamp/trix - 17K stars
 
+#### nota
+
+https://github.com/nota-lang/nota - 500 stars - A document language for the browser. looks like Markdown and Latex
+
 #### inplace editors
 
 https://github.com/xreader/inplaceeditor - 40 stars - Edit static HTML pages with simple InPlaceEditor
