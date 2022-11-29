@@ -144,6 +144,10 @@ Drag and drop Visual CMS for React, Vue, Angular, and more
 
 Integrate with any site or app. Drag and drop with the components already in your codebase.
 
+see also
+
+- https://github.com/primodotso/primo - https://primo.so/ - 500 stars - javascript - visual CMS, based on: svelte, prosemirror. Primo is a component-based CMS that makes it easy to build visually-editable static sites
+
 #### htmlgoddess
 
 https://github.com/jonascript/htmlgoddess
@@ -351,6 +355,7 @@ https://tiptap.dev/guide/collaborative-editing
 https://tiptap.dev/hocuspocus/
 https://github.com/pubpub/pubpub-editor - based on react, prosemirror - 100 stars
 https://github.com/chanzuckerberg/czi-prosemirror - based on react, prosemirror - 300 stars
+https://github.com/primodotso/primo - https://primo.so/ - 500 stars - javascript - visual CMS, based on: svelte, prosemirror. Primo is a component-based CMS that makes it easy to build visually-editable static sites
 
 #### grapesjs
 
