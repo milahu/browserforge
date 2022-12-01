@@ -304,6 +304,7 @@ https://news.ycombinator.com/item?id=13159090
 not
 
 - https://github.com/shelljs/shelljs - 14K stars - target is node.js not browser
+- https://github.com/davidecaruso/shell.js - 80 stars - read only. not interactive
 
 ### web framework
 
