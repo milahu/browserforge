@@ -265,6 +265,42 @@ https://github.com/KilledByAPixel/OS13k - 500 stars - A Tiny OS and Mini Game En
 
 https://github.com/Manthee1/linuxWeb - 100 stars - Linux... but simulated on your web browser.
 
+### web unix
+
+- https://github.com/plasma-umass/browsix - https://browsix.org/ - 3K stars - Browsix is a Unix-like operating system for the browser.
+- https://news.ycombinator.com/item?id=13151566
+  - https://github.com/runtimejs/runtime - https://github.com/runtimejs-comm/runtime - operating system (unikernel) for the cloud
+  - https://bellard.org/jslinux/ - Run Linux or other Operating Systems in your browser!
+
+https://news.ycombinator.com/item?id=13153258
+
+> Browsix is not an interpreter. Browsix provides a shared kernel and primitives like system calls to _existing_ interpreters and runtimes that target JavaScript.
+>
+> For example, we extended both the GopherJS and Emscripten compilers and runtimes to talk to our shared kernel, so that processes written in C and Go can run in parallel (on separate Web Workers) and communicate over pipes, sockets and the filesystem in the browser (much like they can in a standard Unix environment).
+
+https://news.ycombinator.com/item?id=13159090
+
+> JSLinux is a tremendous feat of engineering.
+>
+> If you want to run realistic programs in the browser (and not just technology demos), WebAssembly, asm.js, and compilation to JavaScript in general is the way to go. WebAssembly can easily execute within a factor of 2 of optimized GCC binaries, whereas JSLinux is ~80x slower.
+>
+> Paired with compilers like Emscripten and GopherJS Browsix has the potential to be a relatively fast and lightweight solution to running legacy code in the browser in a way that integrates with existing tools for web UIs.
+
+#### terminal emulators
+
+- https://github.com/xtermjs/xterm.js - 14K stars
+  - https://github.com/wavesoft/local-echo - 100 stars - A local-echo controller for xterm.js
+- https://github.com/Gottox/terminal.js - 500 stars
+- https://github.com/os-js/osjs-xterm-application - xterm app for os.js, client side: xterm.js. server side: powershell.exe or bash
+- https://www.npmjs.com/package/xterm-browser
+- https://www.npmjs.com/package/seeelaye
+- https://www.npmjs.com/package/ttty
+- https://github.com/chjj/term.js - 1K stars
+
+#### bash emulators
+
+- https://github.com/trybash/bash-emulator
+
 ### web framework
 
 https://krausest.github.io/js-framework-benchmark/
