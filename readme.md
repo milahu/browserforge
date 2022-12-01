@@ -299,6 +299,7 @@ https://news.ycombinator.com/item?id=13159090
 
 #### bash emulators
 
+- https://github.com/shelljs/shelljs - 14K stars
 - https://github.com/trybash/bash-emulator
 
 ### web framework
