@@ -299,11 +299,14 @@ https://news.ycombinator.com/item?id=13159090
 
 #### bash emulators
 
-- https://github.com/trybash/bash-emulator
+- https://github.com/dthree/cash - 8K stars - Cross-platform Linux commands in ES6
+  - https://news.ycombinator.com/item?id=11334597
+- https://github.com/UltiRequiem/coreutils - 30 stars - deno - Cross-platform Deno rewrite of the GNU Coreutils
+- https://github.com/trybash/bash-emulator - old
 
 not
 
-- https://github.com/shelljs/shelljs - 14K stars - target is node.js not browser
+- https://github.com/shelljs/shelljs - 14K stars - target is node.js not browser. implements some coreutils, but not bash
 - https://github.com/davidecaruso/shell.js - 80 stars - read only. not interactive
 
 ### web framework
