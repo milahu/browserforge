@@ -286,6 +286,11 @@ https://news.ycombinator.com/item?id=13159090
 >
 > Paired with compilers like Emscripten and GopherJS Browsix has the potential to be a relatively fast and lightweight solution to running legacy code in the browser in a way that integrates with existing tools for web UIs.
 
+#### wasm
+
+- https://rreverser.com/webassembly-shell-with-a-real-filesystem-access-in-a-browser/
+- https://github.com/jprendes/emception - Run Emscripten in the browser
+
 #### terminal emulators
 
 - https://github.com/xtermjs/xterm.js - 14K stars
@@ -323,6 +328,10 @@ not
 - https://github.com/shelljs/shelljs - 14K stars - target is node.js not browser. implements some coreutils, but not bash
 - https://github.com/davidecaruso/shell.js - 80 stars - read only. not interactive
 - https://github.com/importpw/vercel-bash - Bash Runtime for Vercel serverless functions. remote exec of bash scripts
+
+#### bash parsers
+
+- https://github.com/codemirror/legacy-modes/blob/main/mode/shell.js
 
 ### web framework
 
