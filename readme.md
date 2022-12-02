@@ -295,6 +295,9 @@ https://news.ycombinator.com/item?id=13159090
 
 - https://github.com/xtermjs/xterm.js - 14K stars
   - https://github.com/wavesoft/local-echo - 100 stars - A local-echo controller for xterm.js
+
+<details>
+
 - https://github.com/Gottox/terminal.js - 500 stars
 - https://github.com/os-js/osjs-xterm-application - xterm app for os.js, client side: xterm.js. server side: powershell.exe or bash
 - https://www.npmjs.com/package/xterm-browser
@@ -303,17 +306,23 @@ https://news.ycombinator.com/item?id=13159090
 - https://github.com/chjj/term.js - 1K stars
 - https://github.com/finseth/bash - terminal emulator. no commands
 
+</details>
+
 #### bash interpreters
 
 challenge: emulate parallel processing
+
+- https://github.com/nfischer/shelljs-transpiler - 70 stars - transpile Bash to ShellJS
+  - https://github.com/shelljs/shelljs - 14K stars - target is node.js not browser. implements some coreutils, but not bash
+- https://github.com/trybash/bash-emulator - lightweight, only plain text, no ansi escapes
+
+<details>
 
 - https://github.com/plasma-umass/browsix - https://browsix.org/ - 3K stars - Browsix is a Unix-like operating system for the browser.
 - https://github.com/bashojs/basho - 120 stars - Lazy shell pipelines in plain JavaScript
 - https://github.com/dthree/cash - 8K stars - Cross-platform Linux commands in ES6. only for node.js
   - https://news.ycombinator.com/item?id=11334597
 - https://github.com/UltiRequiem/coreutils - 30 stars - deno - Cross-platform Deno rewrite of the GNU Coreutils
-- https://github.com/trybash/bash-emulator - lightweight, only plain text, no ansi escapes
-  - pipes
 - https://github.com/rethab/deno-bash - A silly little bash interpreter written in TypeScript for Deno.
 - https://github.com/taokann/WeBash
 - https://github.com/lpan/rebash - react
@@ -325,13 +334,14 @@ challenge: emulate parallel processing
 
 not
 
-- https://github.com/shelljs/shelljs - 14K stars - target is node.js not browser. implements some coreutils, but not bash
 - https://github.com/davidecaruso/shell.js - 80 stars - read only. not interactive
 - https://github.com/importpw/vercel-bash - Bash Runtime for Vercel serverless functions. remote exec of bash scripts
 
 #### bash parsers
 
 - https://github.com/codemirror/legacy-modes/blob/main/mode/shell.js
+
+</details>
 
 ### web framework
 
