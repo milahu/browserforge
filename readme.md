@@ -295,6 +295,7 @@ https://news.ycombinator.com/item?id=13159090
 
 - https://github.com/xtermjs/xterm.js - 14K stars
   - https://github.com/wavesoft/local-echo - 100 stars - A local-echo controller for xterm.js
+- https://github.com/sdllc/cmjs-shell - 5 stars (underrated) - Command shell based on CodeMirror. javascript repl. syntax highlighting. all text (input + output) is rendered in CodeMirror
 
 <details>
 
