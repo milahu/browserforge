@@ -27,7 +27,7 @@ when i click "edit" then load the editor
 
 ### offline first
 
-aka: local-first, dweb, nocloud
+aka: local-first, dweb, nocloud, nobackend
 
 https://github.com/topics/offline-first
 https://github.com/topics/local-first
@@ -311,11 +311,17 @@ https://news.ycombinator.com/item?id=13159090
 
 #### bash interpreters
 
-challenge: emulate parallel processing
-
 - https://github.com/nfischer/shelljs-transpiler - 70 stars - transpile Bash to ShellJS
   - https://github.com/shelljs/shelljs - 14K stars - target is node.js not browser. implements some coreutils, but not bash
 - https://github.com/trybash/bash-emulator - lightweight, only plain text, no ansi escapes
+
+##### parallel processing
+
+aka: task scheduling, threading, multiprocess, coroutines
+
+- https://github.com/miketalbot/js-coroutines - 500 stars (underrated) - Javascript Coroutines for idle processing and animation.  based on requestIdleCallback
+- https://github.com/raksoras/koroutine - 40 stars - coroutine scheduler for node.js based on ES6 generators
+- https://github.com/bmeck/generator-runner - 20 stars
 
 <details>
 
