@@ -229,6 +229,20 @@ cat .git/objects/pack/*.pack | base64 >>pack.html
 
 this is a fusion of multiple tools
 
+### editable html files
+
+- https://github.com/linkeddata/dokieli
+  - backend: https://solidproject.org/
+- IPFS-based
+  - This single-page web app can edit itself
+    - https://medium.com/textileio/this-single-page-web-app-can-edit-itself-62734dac2700
+      - https://laptrinhx.com/this-single-page-web-app-can-edit-itself-667783868/
+    - https://github.com/ipfs/js-ipfs
+    - https://github.com/carsonfarmer/profile-app
+    - https://github.com/textileio/dapp-template
+- https://www.pagecloud.com/blog/how-to-edit-your-website
+  - `document.body.contentEditable = 'true'; document.designMode='on';`
+
 ### web desktop
 
 aka: web based operating system
