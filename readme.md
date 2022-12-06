@@ -1054,10 +1054,13 @@ Desktop environment in the browser.
 
 ## crdt
 
+aka: live collaboration, realtime collaboration
+
 - https://github.com/yjs/yjs
   - https://github.com/y-crdt/y-crdt/tree/main/ywasm
 - https://github.com/automerge/automerge
 - https://github.com/inkandswitch/peritext - 500 stars - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
+- https://github.com/jupyterlab/rtc - 200 stars - Real Time Collaboration for Jupyter and beyond
 
 ## annotations and comments
 
