@@ -642,6 +642,14 @@ https://github.com/styfle/awesome-online-ide
 - https://github.com/porsager/flems - 400 stars
 - https://github.com/popcodeorg/popcode - 200 stars
 
+##### online playgrounds
+
+aka: repl (read eval print loop)
+
+- https://github.com/pngwn/REPLicant
+- https://github.com/novacbn/svelte-pipeline
+- https://playground.solidjs.com/
+
 #### code-server
 
 https://github.com/coder/code-server - 60K stars
