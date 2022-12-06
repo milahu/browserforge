@@ -1059,4 +1059,8 @@ Desktop environment in the browser.
 - https://github.com/automerge/automerge
 - https://github.com/inkandswitch/peritext - 500 stars - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 
+## annotations and comments
 
+- https://github.com/hypothesis
+- https://github.com/LicomJS/Licom
+- https://github.com/gab-ai-inc/gab-dissenter-extension
