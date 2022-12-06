@@ -1051,3 +1051,12 @@ could be useful, but too complex
 https://github.com/DustinBrett/daedalOS - 6K stars
 
 Desktop environment in the browser.
+
+## crdt
+
+- https://github.com/yjs/yjs
+  - https://github.com/y-crdt/y-crdt/tree/main/ywasm
+- https://github.com/automerge/automerge
+- https://github.com/inkandswitch/peritext - 500 stars - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
+
+
