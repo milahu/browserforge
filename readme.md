@@ -11,6 +11,8 @@ concept
 
 ### implementations
 
+* https://github.com/linkeddata/dokieli - client side editor, but i want "dokieli with git backend"
+* https://github.com/solid/specification - federated web hosting, but i want "solid pods with git backend"
 * https://github.com/isomorphic-git/isomorphic-git#who-is-using-isomorphic-git
   * https://github.com/mizchi/next-editor - https://next-editor.app/ - 300 stars - last update 2020
   * https://github.com/wmhilton/nde - https://wmhilton.com/nde/ - https://nde.now.sh/ - broken - 80 stars - last update 2018
