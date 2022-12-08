@@ -1089,3 +1089,41 @@ aka: live collaboration, realtime collaboration
 - https://github.com/hypothesis
 - https://github.com/LicomJS/Licom
 - https://github.com/gab-ai-inc/gab-dissenter-extension
+
+## self replicating
+
+- Samizdat is a self-replicating LiveCD @ https://github.com/redecentralize/alternative-internet
+
+## git based
+
+- https://github.com/redecentralize/alternative-internet
+- https://github.com/hbons/SparkleShare - 5K stars - self-hosted file sync service, similar to Dropbox and based on Git. Linux, macOS, and Windows.
+- https://github.com/raybejjani/gitsync - git repository synchronisation and discovery tool. Its goal is to allow developers to coordinate without a central master repository.
+- https://github.com/cjb/GitTorrent - peer-to-peer network of Git repositories being shared over BitTorrent.
+- https://github.com/MichaelMure/git-bug - distributed, offline-first bug tracker embedded in git.
+
+<details>
+
+- https://github.com/neithernut/git-dit - distributed issue tracker for git.
+- archived: https://github.com/cryptosphere/cryptosphere - http://cryptosphere.org/ - global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation Networking and Cryptography (NaCl) library and the Git data model. nacl: http://nacl.cr.yp.to/
+
+</details>
+
+
+## web desktop
+
+aka: browser os
+
+- http://blog.grimwire.com/#2013-04-04-grimwire.md - browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
+
+
+
+
+
+## publishing
+
+- http://firecloud.co/ - P2P web publishing platform in your using Persona and WebRTC to work its magic.
+
+
+
+
