@@ -233,6 +233,7 @@ this is a fusion of multiple tools
 
 - https://github.com/linkeddata/dokieli
   - backend: https://solidproject.org/
+- https://github.com/LivelyKernel/LivelyKernel - browser-based runtime and development environment that makes creation of (Web) applications much more immediate and direct. All development happens "live", i.e. you change your application and the system while it is running
 - IPFS-based
   - This single-page web app can edit itself
     - https://medium.com/textileio/this-single-page-web-app-can-edit-itself-62734dac2700
