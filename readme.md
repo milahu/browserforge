@@ -1003,7 +1003,7 @@ https://tina.io/blog/introducing-visual-open-authoring/
 >
 > The experience should feel familiar for anyone that has used a word processor or site builder. You navigate to the page you want to change, click “Edit”, make updates in a WYSIWYG, and then submit your changes. That’s it.
 
-can be used with capri https://capri.build/docs/integrations/tinacms/ to replace next.js with react/svelte/solid/vue/...
+can be used with capri https://capri.build/docs/integrations/tinacms/ to replace next.js/react with vue/svelte/solid/...
 
 > TinaCMS is an open source, Git-backed CMS that adds a custom **visual editing** experience to a site.
 >
