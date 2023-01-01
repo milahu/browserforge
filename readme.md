@@ -988,6 +988,33 @@ A headless CMS for Markdown
 
 using isomorphic-git
 
+has inplace-editing
+
+https://tina.io/blog/introducing-visual-open-authoring/
+
+> We're focused on improving the independent web as a whole. We want to craft tools that help people build better sites and create better content.
+>
+> In line with this mission, we sought to create something we call **Visual Open Authoring**. The [open authoring concept](https://css-tricks.com/netlify-cms-open-authoring/#article-header-id-0) was originally pioneered by Netlify CMS this past summer and involves opening up your website's CMS to accept content-related contributions from anyone. Using Tina, we were able to take this a step further, establishing the editing context on the page itself.
+>
+> Add an "Edit Mode" to Your Site
+>
+> Picture this: on your website, there's an "Edit this page on GitHub" link — familiar enough. But imagine that when you click it, instead of kicking you over to GitHub, the site itself becomes editable, like a Google Doc.
+>
+> The experience should feel familiar for anyone that has used a word processor or site builder. You navigate to the page you want to change, click “Edit”, make updates in a WYSIWYG, and then submit your changes. That’s it.
+
+can be used with capri https://capri.build/docs/integrations/tinacms/ to replace next.js with react/svelte/solid/vue/...
+
+> TinaCMS is an open source, Git-backed CMS that adds a custom **visual editing** experience to a site.
+>
+> While Tina is originally made for Next.js sites, it can also be used as content source for Capri.
+>
+> When used with Capri, you get a completely static site that does not need a Node server and can be deployed to any static hosting service, including S3, GitHub Pages, surge or Firebase Hosting.
+>
+> The cool thing is that the resulting website will ship zero KB of JavaScript to the browser. Still, under /admin you get the full Tina editing experience as single page app!
+
+- https://github.com/capri-js/tinacms-cloud-capri
+- https://github.com/capri-js/tinacms-barebones-capri
+
 #### netlify-cms
 
 https://github.com/netlify/netlify-cms - 16K stars
