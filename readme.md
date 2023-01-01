@@ -11,6 +11,7 @@ concept
 
 ### implementations
 
+* https://github.com/tinacms/tinacms - content management system with visual editing (inplace editing)
 * https://github.com/linkeddata/dokieli - client side editor, but i want "dokieli with git backend"
 * https://github.com/solid/specification - federated web hosting, but i want "solid pods with git backend"
 * https://github.com/isomorphic-git/isomorphic-git#who-is-using-isomorphic-git
