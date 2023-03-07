@@ -11,6 +11,8 @@ concept
 
 ### implementations
 
+* https://github.com/happyborg/p2p-git-portal-poc - collaboration app, no backend
+* https://github.com/MichaelMure/git-bug - store issues in git
 * https://github.com/tinacms/tinacms - content management system with visual editing (inplace editing)
 * https://github.com/linkeddata/dokieli - client side editor, but i want "dokieli with git backend"
 * https://github.com/solid/specification - federated web hosting, but i want "solid pods with git backend"
