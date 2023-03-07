@@ -585,6 +585,14 @@ works with isomorphic-git
 
 selfhosted, localfirst, nocloud, anyone can start a new instance
 
+written in golang
+
+#### gitarena
+
+https://github.com/mellowagain/gitarena - 50 stars
+
+web frontend for git repos, written in rust
+
 ### cloud IDE
 
 aka: browser IDE, browser playground
@@ -1137,6 +1145,7 @@ aka: live collaboration, realtime collaboration
 
 - https://github.com/neithernut/git-dit - distributed issue tracker for git.
 - archived: https://github.com/cryptosphere/cryptosphere - http://cryptosphere.org/ - global peer-to-peer cryptosystem for publishing and securely distributing both data and HTML5/JS applications pseudonymously with no central point of failure. It's built on top of the next-generation Networking and Cryptography (NaCl) library and the Git data model. nacl: http://nacl.cr.yp.to/
+- not: https://fossil-scm.org/ - distributed version control, but not compatible with git
 
 </details>
 
